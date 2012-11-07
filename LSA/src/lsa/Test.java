@@ -1,5 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
+ * Adam Styperek | Templates
  * and open the template in the editor.
  */
 package lsa;
